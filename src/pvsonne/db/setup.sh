@@ -1,0 +1,1 @@
+psql -U alex -d postgres -a -f src/pvsonne/db/schema.sql
